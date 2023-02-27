@@ -28,6 +28,5 @@ int main(void)
 												// 그리고 divResult에 저장된다
 
 	printf("나눗셈 결과: %f \n", divResult);	// 0.750000
-												// %f는 float을 불러오는 서식문자이므로 여기서도 float형으로 형 변환이 일어났다
 	return 0;
 }
